@@ -1,0 +1,3 @@
+[submodule "moudle-B"]
+	path = moudle-B
+	url = https://github.com/JamesMcG-RPC/moudle-B
